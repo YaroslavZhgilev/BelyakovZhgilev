@@ -20,18 +20,22 @@ int main(int argc, char* argv[])
 
 case 1: // если count = 1
  {
+	 cout<<"vremenno nedostupno"<<endl;
  break;
  }
  case 2: // если count = 2
  {
+	 cout<<"vremenno nedostupno"<<endl;
  break;
  }
  case 3: // если count = 3
  {
+	 cout<<"vremenno nedostupno"<<endl;
  break;
  }
  case 4: // если count = 4
  {
+	 cout<<"vremenno nedostupno"<<endl;
  break;
  }
  default: // если count равно любому другому значению
@@ -39,4 +43,4 @@ case 1: // если count = 1
  }
  system("pause");
 return 0;
- }
+ }
